@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shashank G
 
-🎓 Final Year Computer Science Student | 2026 Graduate  
+🎓 Computer Science Engineering Gradute 2026  
 💻 Aspiring Software Engineer  
 🚀 Passionate about Full Stack Development, DSA, and AI Projects  
 📍 India  
