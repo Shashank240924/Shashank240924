@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning Full Stack Development, Data Structures & Algorithms, and AI Integration
 - 💡 Interested in building real-world impactful projects
-- 🎯 Goal: Get placed as a Software Engineer in a top company
+- 🎯 Goal: Get placed as a Software Engineer in a good company
 - 📚 Solving coding problems daily and improving problem-solving skills
 
 ---
@@ -36,9 +36,6 @@ Full Stack AI travel planning web app using MERN stack.
 
 ### ❤️ Heart Disease Prediction
 Machine Learning model to predict heart disease risk.
-
-### 🤖 BizOps Knowledge Agent
-RAG-based AI assistant for HR / Finance / IT internal docs.
 
 ### 📊 Data Science Internship Projects
 Spam Detection, Car Price Prediction, Unemployment Analysis.
